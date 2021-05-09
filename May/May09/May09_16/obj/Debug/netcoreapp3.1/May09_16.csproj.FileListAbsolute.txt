@@ -1,0 +1,13 @@
+C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_16\bin\Debug\netcoreapp3.1\May09_16.exe
+C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_16\bin\Debug\netcoreapp3.1\May09_16.deps.json
+C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_16\bin\Debug\netcoreapp3.1\May09_16.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_16\bin\Debug\netcoreapp3.1\May09_16.runtimeconfig.dev.json
+C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_16\bin\Debug\netcoreapp3.1\May09_16.dll
+C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_16\bin\Debug\netcoreapp3.1\May09_16.pdb
+C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_16\obj\Debug\netcoreapp3.1\May09_16.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_16\obj\Debug\netcoreapp3.1\May09_16.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_16\obj\Debug\netcoreapp3.1\May09_16.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_16\obj\Debug\netcoreapp3.1\May09_16.dll
+C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_16\obj\Debug\netcoreapp3.1\May09_16.pdb
+C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_16\obj\Debug\netcoreapp3.1\May09_16.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_16\obj\Debug\netcoreapp3.1\May09_16.csprojAssemblyReference.cache

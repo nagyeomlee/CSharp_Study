@@ -6,15 +6,12 @@ namespace May09_02
     {
         public static void Main(string[] args)
         {
-            if1.if_ex01();
-            if2.date();
-            if2.ampm();
+            ex01();
+            date();
+            ampm();
         }
-    }
 
-    public class if1
-    {
-        public static void if_ex01()
+        public static void ex01()
         {
             Console.Write("숫자 입력 : ");
             int input = int.Parse(Console.ReadLine());
@@ -30,10 +27,7 @@ namespace May09_02
 
             }
         }
-    }
 
-    public class if2
-    {
         public static void date()
         {
             Console.WriteLine(DateTime.Now.Year + "/" + DateTime.Now.Month + "/" + DateTime.Now.Day + " "

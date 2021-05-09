@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DmoWPGHiHHdcxhtaSGAzTytU/HNccN6KdR+Zg9OU1fMrXggPUZ08OY98+hh4vAi0kJ6g+VdDHeJjrL1CV3WG2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Documents\\GitHub\\CSharp_Study\\May\\May09\\May09_17\\May09_17.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
