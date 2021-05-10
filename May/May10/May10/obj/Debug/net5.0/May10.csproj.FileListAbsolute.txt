@@ -1,0 +1,16 @@
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\bin\Debug\net5.0\May10.exe
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\bin\Debug\net5.0\May10.deps.json
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\bin\Debug\net5.0\May10.runtimeconfig.json
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\bin\Debug\net5.0\May10.runtimeconfig.dev.json
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\bin\Debug\net5.0\May10.dll
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\bin\Debug\net5.0\ref\May10.dll
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\bin\Debug\net5.0\May10.pdb
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\obj\Debug\net5.0\May10.csprojAssemblyReference.cache
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\obj\Debug\net5.0\May10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\obj\Debug\net5.0\May10.AssemblyInfoInputs.cache
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\obj\Debug\net5.0\May10.AssemblyInfo.cs
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\obj\Debug\net5.0\May10.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\obj\Debug\net5.0\May10.dll
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\obj\Debug\net5.0\ref\May10.dll
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\obj\Debug\net5.0\May10.pdb
+C:\Users\KB\Documents\GitHub\CSharp_Study\May\May10\May10\obj\Debug\net5.0\May10.genruntimeconfig.cache
