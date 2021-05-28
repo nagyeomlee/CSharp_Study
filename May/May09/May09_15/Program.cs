@@ -11,7 +11,7 @@ namespace May09_12
 
         public static void Ex01()
         {
-            Console.Write("입력 : ");
+            Console.Write("이름을 입력하시오 : ");
             string str = Console.ReadLine();
 
             if (str.Contains("안녕"))
@@ -20,7 +20,7 @@ namespace May09_12
             }
             else
             {
-                Console.WriteLine("하하");
+                Console.WriteLine("Hello");
             }
         }
 

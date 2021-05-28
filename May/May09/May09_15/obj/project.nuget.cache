@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WZpn39LNCtDL3GIPHySA199VM+K+4cORXC5XEpviFrjTKHf1pyr2CGn3mgmbTwt1VlyVS9EhD71y9aSknncxgw==",
+  "dgSpecHash": "GGIRS/2WSbdG5uJyLeeRThqYbNsRthg/KqHJy/tauDbiLu3VFbKkqA+DbqpbY2eVmobmQZ4xQ/Z+udkUPy4FGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\Documents\\GitHub\\CSharp_Study\\May\\May09\\May09_15\\May09_15.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\nagyeom\\Documents\\GitHub\\CSharp_Study\\May\\May09\\May09_15\\May09_15.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

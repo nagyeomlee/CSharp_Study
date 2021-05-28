@@ -1,0 +1,12 @@
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\new\obj\Debug\netcoreapp3.1\new.AssemblyInfoInputs.cache
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\new\obj\Debug\netcoreapp3.1\new.AssemblyInfo.cs
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\new\obj\Debug\netcoreapp3.1\new.csproj.CoreCompileInputs.cache
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\new\bin\Debug\netcoreapp3.1\new.exe
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\new\bin\Debug\netcoreapp3.1\new.deps.json
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\new\bin\Debug\netcoreapp3.1\new.runtimeconfig.json
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\new\bin\Debug\netcoreapp3.1\new.runtimeconfig.dev.json
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\new\bin\Debug\netcoreapp3.1\new.dll
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\new\bin\Debug\netcoreapp3.1\new.pdb
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\new\obj\Debug\netcoreapp3.1\new.dll
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\new\obj\Debug\netcoreapp3.1\new.pdb
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\new\obj\Debug\netcoreapp3.1\new.genruntimeconfig.cache

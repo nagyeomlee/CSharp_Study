@@ -6,6 +6,10 @@ namespace May09_20
     {
         static void Main(string[] args)
         {
+            Exam01();
+            Exam02();
+            Exam03();
+            Exam04();
             Exam05();
         }
 
@@ -25,6 +29,7 @@ namespace May09_20
             {
                 Console.Write("출력");
             }
+            Console.WriteLine();
         }
 
         public static void Exam03()
@@ -34,7 +39,8 @@ namespace May09_20
             {
                 Console.Write("출력");
                 i++;
-            }    
+            }
+            Console.WriteLine();
         }
         
         public static void Exam04()

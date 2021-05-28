@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {}
+    "C:\\Users\\nagyeom\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Documents\\GitHub\\CSharp_Study\\May\\May09\\May09_02\\May09_02.csproj",
+      "projectUniqueName": "C:\\Users\\nagyeom\\Documents\\GitHub\\CSharp_Study\\May\\May09\\May09_02\\May09_02.csproj",
       "projectName": "May09_02",
-      "projectPath": "C:\\Users\\pc\\Documents\\GitHub\\CSharp_Study\\May\\May09\\May09_02\\May09_02.csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Documents\\GitHub\\CSharp_Study\\May\\May09\\May09_02\\obj\\",
+      "projectPath": "C:\\Users\\nagyeom\\Documents\\GitHub\\CSharp_Study\\May\\May09\\May09_02\\May09_02.csproj",
+      "packagesPath": "C:\\Users\\nagyeom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nagyeom\\Documents\\GitHub\\CSharp_Study\\May\\May09\\May09_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nagyeom\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,18 +55,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.13, 3.1.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

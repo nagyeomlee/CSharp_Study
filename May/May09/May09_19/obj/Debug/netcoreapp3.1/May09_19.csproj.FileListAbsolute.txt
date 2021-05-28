@@ -11,3 +11,16 @@ C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_19\obj\Debug\netcoreap
 C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_19\obj\Debug\netcoreapp3.1\May09_19.pdb
 C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_19\obj\Debug\netcoreapp3.1\May09_19.genruntimeconfig.cache
 C:\Users\pc\Documents\GitHub\CSharp_Study\May\May09\May09_19\obj\Debug\netcoreapp3.1\May09_19.csprojAssemblyReference.cache
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\May09_19\bin\Debug\netcoreapp3.1\May09_19.exe
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\May09_19\bin\Debug\netcoreapp3.1\May09_19.deps.json
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\May09_19\bin\Debug\netcoreapp3.1\May09_19.runtimeconfig.json
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\May09_19\bin\Debug\netcoreapp3.1\May09_19.runtimeconfig.dev.json
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\May09_19\bin\Debug\netcoreapp3.1\May09_19.dll
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\May09_19\bin\Debug\netcoreapp3.1\May09_19.pdb
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\May09_19\obj\Debug\netcoreapp3.1\May09_19.csprojAssemblyReference.cache
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\May09_19\obj\Debug\netcoreapp3.1\May09_19.AssemblyInfoInputs.cache
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\May09_19\obj\Debug\netcoreapp3.1\May09_19.AssemblyInfo.cs
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\May09_19\obj\Debug\netcoreapp3.1\May09_19.csproj.CoreCompileInputs.cache
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\May09_19\obj\Debug\netcoreapp3.1\May09_19.dll
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\May09_19\obj\Debug\netcoreapp3.1\May09_19.pdb
+C:\Users\nagyeom\Documents\GitHub\CSharp_Study\May\May09\May09_19\obj\Debug\netcoreapp3.1\May09_19.genruntimeconfig.cache

@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\KB\\.nuget\\packages\\": {}
+    "C:\\Users\\nagyeom\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KB\\Documents\\GitHub\\CSharp_Study\\May\\May10\\May10_16\\May10_16.csproj",
+      "projectUniqueName": "C:\\Users\\nagyeom\\Documents\\GitHub\\CSharp_Study\\May\\May10\\May10_16\\May10_16.csproj",
       "projectName": "May10_16",
-      "projectPath": "C:\\Users\\KB\\Documents\\GitHub\\CSharp_Study\\May\\May10\\May10_16\\May10_16.csproj",
-      "packagesPath": "C:\\Users\\KB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KB\\Documents\\GitHub\\CSharp_Study\\May\\May10\\May10_16\\obj\\",
+      "projectPath": "C:\\Users\\nagyeom\\Documents\\GitHub\\CSharp_Study\\May\\May10\\May10_16\\May10_16.csproj",
+      "packagesPath": "C:\\Users\\nagyeom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nagyeom\\Documents\\GitHub\\CSharp_Study\\May\\May10\\May10_16\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\KB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nagyeom\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
